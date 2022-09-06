@@ -53,7 +53,8 @@ Research Papers:
   
 # Middle of Project (July 1st - August 28th):
 
-  Writing Python Snake Game using Pygame:
+  Writing Python Snake Game using Pygame & Functional Programming:
+  https://www.edureka.co/blog/snake-game-with-pygame/
   
   Writing a Reinforcement Learning Algorithm using OpenAI Gym:
   https://www.youtube.com/watch?v=cO5g5qLrLSo
