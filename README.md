@@ -95,8 +95,8 @@ Research Papers:
   # End of Project (TBD):
   Plans:
   
-    Finish Snake_AI.py custom environment.
+  Finish Snake_AI.py custom environment.
     
-    Implementing an Agent and Deep Learning model using either taxicab or Euclidean distance as an objective function.
+  Implementing an Agent and Deep Learning model using either taxicab or Euclidean distance as an objective function.
     
-    Either Deep-Q Learning or ReLu model seem like viable options.
+  Either Deep-Q Learning or ReLu model seem like viable options.
