@@ -86,10 +86,12 @@ Research Papers:
   
   https://www.youtube.com/watch?v=bD6V3rcr_54&t=1s
   
-  Creating & Implementing an Agent & ReLu Deep Learning Model (basis for snake_ai.py):
+  Creating & Implementing an Agent & ReLu Deep Learning Model (Markov Decision Process):
   
   https://www.youtube.com/watch?v=L8ypSXwyBds
   
+  Basis for snake_ai.py:
+
   https://github.com/python-engineer/snake-ai-pytorch
   
   # End of Project (TBD):
