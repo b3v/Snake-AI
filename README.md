@@ -5,7 +5,10 @@ Listed below are some of the sources referenced for this project, including theo
 
 # The Beginning of this project (June 16th-June 30th):
 
-Hundred-Page Machine Learning Book:
+Snake Game Using Search Algorithms (Java):
+https://github.com/neelgajjar/Snake-game-AI-Solver/blob/master/README.md
+
+Hundred-Page Machine Learning Book (Read in Full):
 http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf
 
 Code for Un/Supervised Machine Learning:
@@ -65,11 +68,12 @@ Research Papers:
   Creating a Custom Environment:
   https://www.youtube.com/watch?v=bD6V3rcr_54&t=1s
   
-  Creating & Implementing an Agent & ReLu Deep Learning Model:
+  Creating & Implementing an Agent & ReLu Deep Learning Model (basis for snake_ai.py):
   https://www.youtube.com/watch?v=L8ypSXwyBds
   https://github.com/python-engineer/snake-ai-pytorch
   
   # End of Project (TBD):
   Plans:
+    Finish Snake_AI.py custom environment.
     Implementing an Agent and Deep Learning model using either taxicab or Euclidean distance as an objective function.
     Either Deep-Q Learning or ReLu model seem like viable options.
